@@ -1,5 +1,5 @@
 """
-Ejercicios Primer Control Computacion Numerica
+Ejercicios Computacion Numerica practicas 1-5
 """
 import numpy as np
 import matplotlib.pyplot as plt
